@@ -21,7 +21,7 @@ A modern, responsive single-page application that displays sports leagues with f
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sukritiverma069/sporty-group.git
    cd sporty-app
    ```
 
